@@ -62,14 +62,6 @@ Tools         Git, Docker, Linux, Vercel, Netlify, Claude Code
 - Deloitte Australia — Data Analytics Virtual Experience
 - Oracle Cloud Infrastructure 2025 AI Foundations Associate
 
----
-
-## `$ cat stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderKundu&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderKundu&theme=gruvbox&hide_border=true&layout=compact&langs_count=8" />
-</p>
 
 ---
 
