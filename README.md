@@ -1,72 +1,175 @@
-# `$ github.com/CoderKundu`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=200&section=header&text=Prasoon%20Kundu&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Audio%20ML%20%C2%B7%20Developer%20Tooling&descSize=16&descAlignY=58&descColor=c9d1d9&animation=twinkling" />
 
-## `$ whoami`
+<p align="center">
+  <a href="https://ambit-mu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" /></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" /></a>
+</p>
 
-```
-prasoon@lucknow
-———————————————
-Name:       Prasoon Kundu
-Role:       Final year B.Tech CSE, Amity University Lucknow
-Also:       Student Placement Coordinator
-Builds:     Web apps, audio ML pipelines, developer tooling
-Runs on:    C++, TypeScript, Docker
-Location:   Lucknow, Uttar Pradesh, India
-Status:     Open to SDE / Full-Stack roles
-```
-
-I build tools for problems I actually have. A music recommender because genre tags are useless when you want music for a *situation*. A speed test because the existing ones lie to you. A flood map because Prayagraj roads go under every monsoon and nobody had a map of which ones. Most of them started as an annoyance and ended as a repo.
-
-I also write down the bugs I find instead of quietly fixing them, which makes my READMEs longer and my claims smaller.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CoderKundu&style=for-the-badge&color=00D9FF&labelColor=0D1117&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-## `$ ls projects/`
+## `> whoami`
 
-- **Ambit** — *[Website](https://ambit-mu.vercel.app/)* — *[Source](https://github.com/CoderKundu)*
-
-> Situation-based music recommender. Four-stage Python ingest pipeline over Jamendo Creative Commons audio using Essentia, percentile scoring, and explanations generated from live scoring deltas. Beat tracking kept falling apart on ambient tracks and the vocals dial saturated; both documented and fixed. Evaluation harness reports what it actually measures, including where it's weak.
-
-- **net-speedtest** — *[Website](https://net-speedtest.netlify.app/)* — *[Source](https://github.com/CoderKundu)*
-
-> Browser-side network measurement engine on Netlify Functions, rebuilt from an architecture that didn't work. Seven measurement bugs found and fixed one at a time, including bufferbloat grading and a static asset issue that was inflating download throughput. Gives three-state verdicts instead of one confident wrong number.
-
-- **Flood Cutoff Mapping** — *[Source](https://github.com/CoderKundu)*
-
-> Maps which Prayagraj roads get cut off as the Ganga and Yamuna rise. OSM road network graph cross-referenced against elevation models, with cutoff thresholds driven by gauge readings. Built as a tool, not a paper.
-
-- **ContainerMind** — *[Source](https://github.com/CoderKundu)*
-
-> Container health monitoring that predicts failures before they happen. Docker, FastAPI and Next.js, with fault injection used to generate labelled failure data. Currently being written up.
-
-- **ByteCode** — *[Source](https://github.com/CoderKundu)*
-
-> Online compiler that runs untrusted code inside sandboxed Docker containers with resource limits.
-
----
-
-## `$ ls stack/`
-
-```
-Languages     C++, Java, JavaScript, TypeScript, SQL
-Frontend      React, Next.js, Tailwind
-Backend       Node.js, Express, FastAPI
-Data          MongoDB, MySQL
-ML / Audio    NumPy, Pandas, scikit-learn, Essentia
-Tools         Git, Docker, Linux, Vercel, Netlify, Claude Code
+```js
+const kundu = {
+  role:       "Full-Stack Developer",
+  focus:      ["Web Apps", "Audio/ML Pipelines", "Developer Tooling"],
+  education:  "B.Tech CSE @ Amity University Lucknow (2023–2027)",
+  currently:  "Building ContainerMind — AI-driven container health monitoring",
+  role_at_uni:"Student Placement Coordinator",
+  philosophy: "Real-world tools over academic exercises",
+  location:   "Lucknow, India 🇮🇳",
+};
 ```
 
 ---
 
-## `$ ls credentials/`
+## 🛠 Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+**ML / Audio**
+
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
+![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Claude Code](https://img.shields.io/badge/Claude_Code-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757)
+
+---
+
+## 🚀 Featured Projects
+
+### [Ambit](https://ambit-mu.vercel.app/) — Situation-Based Music Recommender
+
+Recommends music by *situation* rather than genre, powered by a four-stage Python ingest pipeline over Creative Commons audio from Jamendo.
+
+**Highlights**
+- Four-stage audio feature pipeline built on Essentia
+- Percentile-based scoring with explanations generated from live scoring deltas
+- Fixed beat-tracker instability on ambient tracks and a saturating vocals dial
+- Evaluation harness with honestly documented limits — no inflated metrics
+- Saved-tracks feature with localStorage persistence; static Next.js export on Vercel
+
+![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
+![Vercel](https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white)
+
+[**Live Demo →**](https://ambit-mu.vercel.app/)
+
+---
+
+### [net-speedtest](https://net-speedtest.netlify.app/) — Browser-Side Network Measurement
+
+A speed test rebuilt from a broken architecture into a working browser-side measurement engine backed by serverless functions.
+
+**Highlights**
+- Seven measurement bugs found and fixed iteratively, each documented
+- Refined bufferbloat grading and a static-asset fix for accurate download throughput
+- Three-state verdicts instead of misleading single numbers
+- Accuracy limits stated openly in the README
+
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Netlify](https://img.shields.io/badge/Netlify_Functions-161B22?style=flat-square&logo=netlify&logoColor=00C7B7)
+
+[**Live Demo →**](https://net-speedtest.netlify.app/)
+
+---
+
+### Flood Cutoff Mapping — Road Accessibility Under Flooding (Prayagraj)
+
+Maps which roads in Prayagraj get cut off as river levels rise, by combining OpenStreetMap road networks with Ganga/Yamuna gauge readings and elevation models.
+
+**Highlights**
+- Road network graph built from OSM, cross-referenced against elevation data
+- Cutoff thresholds driven by live Ganga and Yamuna gauge levels
+- Built as a usable tool for a real local problem, not a paper exercise
+
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-161B22?style=flat-square&logo=openstreetmap&logoColor=7EBC6F)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-161B22?style=flat-square&logo=python&logoColor=139C5A)
+
+---
+
+### ByteCode — Sandboxed Online Compiler
+
+Multi-language online compiler executing untrusted user code inside isolated Docker containers with resource limits.
+
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED)
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=339933)
+
+<br>
+
+<a href="https://github.com/CoderKundu?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" /></a>
+
+---
+
+## 🔭 Currently Building
+
+**ContainerMind** — AI-powered container health monitoring (Docker · FastAPI · Next.js), using fault injection to label failure-prediction data. Being written up as a research paper.
+
+**Shop Ordering Platform** — Catalogue-and-cart ordering site for a local hardware and building-materials business, with phone-first inventory management for the owner.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CoderKundu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00D9FF&icon_color=9D4EDD&text_color=c9d1d9&bg_color=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderKundu&theme=github-dark-blue&hide_border=true&ring=00D9FF&fire=9D4EDD&currStreakLabel=00D9FF&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderKundu&theme=github_dark&hide_border=true&layout=compact&title_color=00D9FF&text_color=c9d1d9&bg_color=0D1117&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderKundu&theme=github-compact&bg_color=0D1117&color=00D9FF&line=9D4EDD&point=ffffff&hide_border=true" />
+</p>
+
+---
+
+## 🎓 Education & Credentials
+
+**B.Tech, Computer Science** · Amity University Lucknow · `2023 – 2027`
+> CGPA 8.08 · Student Placement Coordinator
 
 - Deloitte Australia — Data Analytics Virtual Experience
 - Oracle Cloud Infrastructure 2025 AI Foundations Associate
 
-
 ---
 
-## `$ ls contact/`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00D9FF&height=100&section=footer&reversal=true" />
 
-- **[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)**
-- **[Email](mailto:YOUR-EMAIL@gmail.com)**
-- **[GitHub](https://github.com/CoderKundu)**
+<p align="center"><i>Building things that actually get used · Open to SDE & Full-Stack roles</i></p>
