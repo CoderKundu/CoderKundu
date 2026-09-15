@@ -143,22 +143,6 @@ Multi-language online compiler executing untrusted user code inside isolated Doc
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderKundu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00D9FF&icon_color=9D4EDD&text_color=c9d1d9&bg_color=0D1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderKundu&theme=github-dark-blue&hide_border=true&ring=00D9FF&fire=9D4EDD&currStreakLabel=00D9FF&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderKundu&theme=github_dark&hide_border=true&layout=compact&title_color=00D9FF&text_color=c9d1d9&bg_color=0D1117&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderKundu&theme=github-compact&bg_color=0D1117&color=00D9FF&line=9D4EDD&point=ffffff&hide_border=true" />
-</p>
-
----
 
 ## 🎓 Education & Credentials
 
