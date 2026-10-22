@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=200&section=header&text=Prasoon%20Kundu&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Audio%20ML%20%C2%B7%20Developer%20Tooling&descSize=16&descAlignY=58&descColor=c9d1d9&animation=twinkling" />
 
 <p align="center">
-  <a href="https://ambit-mu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF" /></a>
+  <a href="https://coderkundu.github.io/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF" /></a>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" /></a>
   <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" /></a>
 </p>
